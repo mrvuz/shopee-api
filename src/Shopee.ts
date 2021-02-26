@@ -13,7 +13,7 @@ class Shopee {
 		THAILAND: "https://shopee.co.th",
 		TAIWAN: "https://shopee.tw",
 		INDONESIA: "https://shopee.co.id",
-		VIETNAM: "https://shopee.com.vn",
+		VIETNAM: "https://shopee.vn",
 		PHILIPPINES: "https://shopee.ph",
 		BRAZIL: "http://shopee.com.br"
 	}
